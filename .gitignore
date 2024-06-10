@@ -1,0 +1,27 @@
+.DS_Store
+*.swp
+
+# Eclipse files
+.project
+.settings/
+
+# IntelliJ files
+*.iml
+.idea/
+
+# VS
+.vs/
+.vscode/
+
+# Gradle
+.gradle
+build
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# IntelliJ files
+*.iml
+.idea/
